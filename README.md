@@ -1,11 +1,11 @@
-Hi 👋 My name is Oksana
+Hi 👋 My name is Oxana
 ==============================================================================================================================
 
 Frontend Developer
 ------------------
 
 * 😎  I am a Frontend Developer who loves React!
-* 📫 Shoot me an [Email](mailto:kesusha.melnyk@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/oxanaml) 
+* 📫  Shoot me an [Email](mailto:kesusha.melnyk@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/oxanaml) 
 
 ### Skills
 
