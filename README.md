@@ -1,7 +1,7 @@
 Hi 👋 My name is Oxana
 ==============================================================================================================================
 
-Frontend Developer
+Front End Developer
 ------------------
 
 * 😎  I am a Front End Developer who loves React!
