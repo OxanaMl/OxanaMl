@@ -4,7 +4,7 @@ Hi 👋 My name is Oxana
 Front End Developer
 ------------------
 
-* 👩🏻  I'm a passionate Front End Developer with a strong affinity for creating visually appealing and interactive web experiences. Here's a bit about me:
+* 👩🏻  I'm a passionate Front End Developer with a strong affinity for creating visually appealing and interactive web experiences
 * 💻  I specialize in HTML, CSS, JavaScript, and have hands-on experience with the modern front-end library React
 * 🎓  I hold an MBA degree and have completed the Code the Dream front-end developmen program
 * 📫  Feel free to connect with me through GitHub messages or drop me an [Email](mailto:oxana.devs@gmail.com) 
